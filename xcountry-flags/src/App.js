@@ -1,5 +1,5 @@
 import React from 'react';
-import CountryList from './Compponents/CountryList';
+import CountryList from './Components/CountryList';
 import "./App.css";
 
 function App() {
